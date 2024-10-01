@@ -1,0 +1,75 @@
+[33mcommit 5d8c03c8ca260717ee1469922b1e69df459f7a87[m
+Author: tplowe56 <tom@loweprofile.com>
+Date:   Sat Sep 28 00:10:46 2024 -0500
+
+    zpBootstrap-min initial commit
+
+[33mcommit 8bbb1b2f3bcf4168debc14343fcacdcd85ae722e[m
+Author: tplowe56 <tom@loweprofile.com>
+Date:   Sat Sep 28 00:12:29 2024 -0500
+
+    update theme name
+
+[33mcommit d868fdb56f41f1f381c6ce83b6e32ca1b6d1a40a[m
+Author: tplowe56 <tom@loweprofile.com>
+Date:   Sat Sep 28 00:47:39 2024 -0500
+
+    adjust to minimize blank space
+
+[33mcommit efafb161906a77d6a508a183803257fa9df39320[m
+Author: tplowe56 <tom@loweprofile.com>
+Date:   Sat Sep 28 14:47:16 2024 -0500
+
+    minimizes blank space & caption adjustment
+
+[33mcommit c4a24e8ba0ce5a68e27f7e8b8c0f83c4468e9333[m
+Author: tplowe56 <tom@loweprofile.com>
+Date:   Sat Sep 28 17:33:45 2024 -0500
+
+    Testing
+
+[33mcommit 4dadfccda2ebf65d7d16dd6f62062ac5cd3532af[m
+Author: tplowe56 <tom@loweprofile.com>
+Date:   Sat Sep 28 21:07:05 2024 -0500
+
+    bootstrap.css beautified
+
+[33mcommit 5a7cdcbbbc867b96c58c8428c5e7cab1e9e048de[m
+Author: tplowe56 <tom@loweprofile.com>
+Date:   Sat Sep 28 21:10:46 2024 -0500
+
+    Revert "bootstrap.css beautified"
+    
+    This reverts commit 4dadfccda2ebf65d7d16dd6f62062ac5cd3532af.
+
+[33mcommit 379ed2365b28f68ed0e07c348f04aca7bc6ce30f[m
+Author: tplowe56 <tom@loweprofile.com>
+Date:   Sat Sep 28 22:00:49 2024 -0500
+
+    Update bootstrap.css
+
+[33mcommit f50278f12c98510886c132e3471282285e443a0b[m
+Author: tplowe56 <tom@loweprofile.com>
+Date:   Sat Sep 28 22:34:14 2024 -0500
+
+    Update bootstrap.min.css
+
+[33mcommit aa623f080443e143e4d71f8b7d8a6a35002f7aba[m
+Author: tplowe56 <tom@loweprofile.com>
+Date:   Sun Sep 29 02:14:29 2024 -0500
+
+    responsive
+
+[33mcommit 55f4acba97de0d89e61fec134b056f376923fe6b[m
+Author: tplowe56 <tom@loweprofile.com>
+Date:   Mon Sep 30 18:49:29 2024 -0500
+
+    json udate
+
+[33mcommit 8e8b8056e9b932462fc528a6e772d9af6d0c9f38[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: tplowe56 <tom@loweprofile.com>
+Date:   Tue Oct 1 14:38:12 2024 -0500
+
+    Revert "update theme name"
+    
+    This reverts commit 8bbb1b2f3bcf4168debc14343fcacdcd85ae722e.
