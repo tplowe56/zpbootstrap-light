@@ -2,7 +2,7 @@
 $me = basename(dirname(__FILE__));
 
 // Zenphoto theme definition file
-$theme_description['name'] = 'zpBootstrap';
+$theme_description['name'] = 'zpBootstrap-min';
 $theme_description['author'] = 'Vincent3569';
 $theme_description['version'] = '2.3';
 $theme_description['date'] = '31/03/2020';
