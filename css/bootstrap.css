@@ -1361,6 +1361,7 @@ img {
 .img-responsive,
 .thumbnail>img,
 .thumbnail a>img {
+  box-shadow: 0 0 0 0.3px #231c37;
   display: block;
   max-width: 100%;
   height: auto;
