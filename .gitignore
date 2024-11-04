@@ -10,3 +10,7 @@ Desktop.ini
 
 # Mac crap
 .DS_Store
+
+# folders to exclude #
+######################
+/nodes_modules
