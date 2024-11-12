@@ -13,4 +13,4 @@ Desktop.ini
 
 # folders to exclude #
 ######################
-/nodes_modules
+/node_modules
