@@ -41,7 +41,7 @@
 				</h4>
 			</div>
 			<div class="col-sm-offset-2 col-sm-8">
-				<?php printImageDesc(); ?>
+				<!--<?php printImageDesc(); ?> // remove double caption image page-->
 			</div>
 
 			<?php if ((getOption('zpB_show_exif')) && (getImageMetaData())) { ?>
