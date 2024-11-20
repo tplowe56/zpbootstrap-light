@@ -30,7 +30,7 @@
 						<?php printImageThumb(getBareImageTitle(), 'remove-attributes img-responsive'); ?>
 						<div class="hidden caption">
 							<h4><?php printBareImageTitle(); ?></h4>
-							<?php echo printImageDesc(); ?>
+							<!--<?php echo printImageDesc(); ?> // remove double caption fancybox-->
 						</div>
 					</a>
 					<?php		// audio file
